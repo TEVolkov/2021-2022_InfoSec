@@ -8,4 +8,10 @@
 
 ## features:
 
-- add lab1 report and presentation
+- add lab2 report and presentation
+
+# 1.3.0
+
+## features:
+
+- add lab3 report and presentation
