@@ -39,3 +39,9 @@
 ## features:
 
 - add lab7 report and presentation
+
+# 1.8.0
+
+## features:
+
+- add lab8 report and presentation
